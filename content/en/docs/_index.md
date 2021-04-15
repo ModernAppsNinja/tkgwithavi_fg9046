@@ -1,6 +1,6 @@
 ---
-title: "ModernApps by VMware Tanzu Learning Guide Template"
-linkTitle: "ModernApps Learning Guide Template"
+title: "TKG 1.3.0 with Avi Integration Guide 101"
+linkTitle: "TKG 1.3.0 with Avi Integration Guide 101"
 weight: 20
 menu:
   main:
