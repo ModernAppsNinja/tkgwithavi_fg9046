@@ -16,7 +16,7 @@ menu:
   - [Prerequisites](#prerequisites)
   - [Instructions](#instructions)
 
-## About the Learning Guide Template
+## About the Learning Guide Template test
 
 This template is a simple, single page template based on [Google's Open Source Docsy theme](https://docsy.dev) for the [Hugo Static Site generator](https://gohugo.io), that includes custom styling and feature enhancements for the ModernApps community. 
 
